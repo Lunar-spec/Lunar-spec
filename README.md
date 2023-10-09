@@ -47,4 +47,3 @@ Hello there! I'm Manjesh Singh, a full stack developer well-versed in the MERN (
 ---
 [![](https://visitcount.itsvg.in/api?id=Lunar-spec&icon=8&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
