@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hello there! I'm Manjesh Singh, a full stack developer well-versed in the MERN (MongoDB, Express.js, React.js, Node.js) stack.<br><br>🛠️ Expertise: HTML, CSS, and JavaScript are my creative tools, while MongoDB, Express.js, React.js, and Node.js form my development arsenal.<br><br>🚀 Experience: I've skillfully worked with APIs like MapboxGL and Stripe, adding that extra flair to applications.<br><br>💅 Aesthetic Touch: I occasionally embrace MUI or Bootstrap to finesse the visual appeal of my creations.<br><br>🌱 Learning Journey: Currently, I'm on a quest to master Next.js, opening new dimensions for my projects.<br><br>Let's collaborate and code the future together! 💻🌟
 
-
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/king_julien_xiv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manjesh-singh/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/lunar-spec) 
 
