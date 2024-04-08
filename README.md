@@ -2,7 +2,7 @@
 Hello there! I'm Manjesh Singh, a full stack developer well-versed in the MERN (MongoDB, Express.js, React.js, Node.js) stack.<br>🛠️ Expertise: TailwindCSS is my creative tool, while React.js & Next.js form my development arsenal.<br>🚀 Experience: I've skillfully worked with APIs like MapboxGL and Stripe, adding that extra flair to applications.<br>💅 Aesthetic Touch: I occasionally embrace MUI or Bootstrap to finesse the visual appeal of my creations.<br>🌱 Learning Journey: Currently, I'm on a quest to master Next.js, opening new dimensions for my projects.<br>Let's collaborate and code the future together! 💻🌟
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manjesh-singh/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/lunar-spec) 
 
 # 💻 Tech Stack:
